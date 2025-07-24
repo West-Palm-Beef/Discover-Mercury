@@ -13,7 +13,7 @@ Welcome to the **Discover Mercury** fake travel site! This project is designed a
 - Auditors practicing manual testing
 - Anyone preparing for CPACC, WAS, or other certifications
 
-**Live site:** [Discover Mercury](https://west-palm-beef.github.io/Discover-Mercury/)
+**Live site:** (Currently does not work until main branch is updated.) [https://discovermercury.site](https://discovermercury.site)
 
 ## 🧪 What You Can Practice
 
